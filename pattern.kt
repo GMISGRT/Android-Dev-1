@@ -12,7 +12,7 @@ fun main() {
         }
         println()
     }
-    for (i in 5 downTo 1)
+    for (i in 5 downTo 0)
     {
         for (j in 0 until 5-i)
         print(" ")
